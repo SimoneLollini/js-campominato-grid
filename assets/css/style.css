@@ -25,10 +25,11 @@ body {
     align-items: center;
 }
 
-.bg_aqua {
-    background-color: aqua;
-}
 
 .d_none {
     display: none;
+}
+
+.active {
+    background-color: aqua;
 }
